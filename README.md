@@ -1,2 +1,4 @@
 # Flask_Basic_Template
-This is the template for Flask
+This the basic flask template
+
+
